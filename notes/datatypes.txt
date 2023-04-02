@@ -1,0 +1,17 @@
+basic datatypes are
+
+integer -> int
+byte -> 1byte int
+long -> 8byte int 
+short -> 3 byte int
+
+character -> represented bye '' and char
+boolena -> boolean -> store true and false
+
+float -> decimal vales 32 bit
+double -> decimal values 64 bit
+
+literals
+
+int num = 0b101 -> binary values
+int num = 0x777 -> hexa values

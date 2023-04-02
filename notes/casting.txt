@@ -1,0 +1,4 @@
+int a = (char)124;
+
+it also have some limitayions 
+
